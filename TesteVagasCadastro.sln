@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteVagasCadastro", "TesteVagasCadastro\TesteVagasCadastro.csproj", "{41FD5D56-A9B7-473F-A25E-A7FA2B58815E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesDAL", "EntidadesDAL\EntidadesDAL.csproj", "{2AFF3AC1-2F4F-4543-AED5-E8E09920FCB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteVagasCadastro.Api", "TesteVagasCadastro.Api\TesteVagasCadastro.Api.csproj", "{C8BC2CA1-6CB9-44AB-B05B-6EC4865CA34B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41FD5D56-A9B7-473F-A25E-A7FA2B58815E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41FD5D56-A9B7-473F-A25E-A7FA2B58815E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41FD5D56-A9B7-473F-A25E-A7FA2B58815E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41FD5D56-A9B7-473F-A25E-A7FA2B58815E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AFF3AC1-2F4F-4543-AED5-E8E09920FCB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AFF3AC1-2F4F-4543-AED5-E8E09920FCB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AFF3AC1-2F4F-4543-AED5-E8E09920FCB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AFF3AC1-2F4F-4543-AED5-E8E09920FCB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8BC2CA1-6CB9-44AB-B05B-6EC4865CA34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BC2CA1-6CB9-44AB-B05B-6EC4865CA34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BC2CA1-6CB9-44AB-B05B-6EC4865CA34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BC2CA1-6CB9-44AB-B05B-6EC4865CA34B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

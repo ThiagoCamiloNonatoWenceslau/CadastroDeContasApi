@@ -1,0 +1,10 @@
+c:\users\thiag\onedrive\documentos\visual studio 2017\Projects\TesteVagasCadastro\EntidadesDAL\bin\Debug\EntidadesDAL.dll
+c:\users\thiag\onedrive\documentos\visual studio 2017\Projects\TesteVagasCadastro\EntidadesDAL\bin\Debug\EntidadesDAL.pdb
+c:\users\thiag\onedrive\documentos\visual studio 2017\Projects\TesteVagasCadastro\EntidadesDAL\obj\Debug\EntidadesDAL.dll
+c:\users\thiag\onedrive\documentos\visual studio 2017\Projects\TesteVagasCadastro\EntidadesDAL\obj\Debug\EntidadesDAL.pdb
+c:\users\thiag\onedrive\documentos\visual studio 2017\Projects\TesteVagasCadastro\EntidadesDAL\bin\Debug\EntidadesDAL.dll.config
+c:\users\thiag\onedrive\documentos\visual studio 2017\Projects\TesteVagasCadastro\EntidadesDAL\bin\Debug\EntityFramework.dll
+c:\users\thiag\onedrive\documentos\visual studio 2017\Projects\TesteVagasCadastro\EntidadesDAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\thiag\onedrive\documentos\visual studio 2017\Projects\TesteVagasCadastro\EntidadesDAL\bin\Debug\EntityFramework.xml
+c:\users\thiag\onedrive\documentos\visual studio 2017\Projects\TesteVagasCadastro\EntidadesDAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\thiag\onedrive\documentos\visual studio 2017\Projects\TesteVagasCadastro\EntidadesDAL\obj\Debug\EntidadesDAL.csprojResolveAssemblyReference.cache
